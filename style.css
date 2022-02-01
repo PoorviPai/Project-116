@@ -1,0 +1,14 @@
+h3{
+    font-size: 30px !important;
+    background-color: peachpuff;
+}
+
+button{
+    background-color: peachpuff;
+}
+
+canvas{
+    background-color: white;
+    animation-duration:4s;
+    animation-iteration-count: infinite;
+}
